@@ -9,7 +9,26 @@
   Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
 
-[![Servidor de Discord](https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord)](https://discord.gg/8nu3ZdDkp7)
+<p align="center">
+  <li>
+    <a href="mailto:tumonulodev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://discord.gg/8nu3ZdDkp7">
+      <img src="https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord" alt="Servidor de Discord" />
+    </a>
+  </li>
+</p>
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tumonulo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumonulo&layout=compact&theme=tokyonight" />
+</p>
 
 
 ## 🛠️ Tecnologías
