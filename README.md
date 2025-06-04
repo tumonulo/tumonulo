@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://github.com/tumoulo.png" width="100" alt="Foto de perfil" />
+  <img src="https://github.com/tumonulo.png" width="100" alt="Foto de perfil" />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy tumoulo</h1>
+<h1 align="center">👋 ¡Hola! Soy tumonulo</h1>
 
-<p align="center" width="80px">
+<p align="center" width="30px">
   Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
   Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
