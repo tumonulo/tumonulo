@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<p align="center">
+<p>
   Soy un desarrollador autodidacta con especial interés en crear bots, automatizaciones y herramientas útiles, especialmente en entornos como Discord. Disfruto aprendiendo nuevas     tecnologías, colaborando con otros y manteniendo mis proyectos organizados.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumonulo&layout=compact&theme=tokyonight" style="float: right; margin-left: 10px;">
 </p>
