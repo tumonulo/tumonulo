@@ -1,20 +1,17 @@
-<p align="center">
-  <img src="https://github.com/tumoulo.png" width="80" alt="Foto de perfil" style="border-radius: 50%; margin-right: 15px;" />
-  <b style="font-size: 2em;">👋 ¡Hola! Soy tumoulo</b>
-</p>
+<header align="center">
+  <img src="https://github.com/tumonulo.png" width="80" alt="Foto de perfil" style="border-radius: 50%; margin-right: 15px;" />
+  <h1 style="font-size: 2em;">👋 ¡Hola! Soy tumoulo</h1>
+</header>
 
-<p align="center">
+<p align="center" max-witdh="500px">
   Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante. Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
 
-<p align="center">
-  [![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
-</p>
-
+[![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
 
 ---
 
-## <🛠️ Tecnologías
+## 🛠️ Tecnologías
 
 ### 🧠 Lenguajes de programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
