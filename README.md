@@ -10,11 +10,12 @@
 </p>
 
 <p align="center">
-  <li>
-    <a href="https://discord.gg/8nu3ZdDkp7">
-      <img src="https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord" alt="Servidor de Discord" />
-    </a>
-  </li>
+  <a href="mailto:tumonulo.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.gg/8nu3ZdDkp7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ## 📊 Estadísticas de GitHub
