@@ -18,19 +18,6 @@
   </a>
 </p>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="65%" align="center" valign="middle" style="padding-right: 10px;">
-      Soy un desarrollador autodidacta con especial interés en crear bots, automatizaciones y herramientas útiles, especialmente en entornos como Discord. Disfruto aprendiendo nuevas tecnologías, colaborando con otros y manteniendo mis proyectos organizados.
-    </td>
-    <td width="35%" align="right" valign="top" style="padding-left: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumonulo&layout=compact&theme=tokyonight" alt="Top Lenguajes" />
-    </td>
-  </tr>
-</table>
-
-
-
 ## 🛠️ Tecnologías
 
 ### 🧠 Lenguajes de programación
