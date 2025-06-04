@@ -14,13 +14,13 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.gg/8nu3ZdDkp7" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord" alt="Servidor de Discord" />  </a>
+    <img src="https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord" alt="Servidor de Discord" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumonulo&layout=compact&theme=tokyonight" />
+  Soy un desarrollador autodidacta con especial interés en crear bots, automatizaciones y herramientas útiles, especialmente en entornos como Discord. Disfruto aprendiendo nuevas tecnologías, colaborando con otros y manteniendo mis proyectos organizados.<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumonulo&layout=compact&theme=tokyonight" />
 </p>
-
 
 ## 🛠️ Tecnologías
 
