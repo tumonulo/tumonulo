@@ -8,6 +8,7 @@
   Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
   Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
+<iframe src="https://discord.com/widget?id=1093864130030612521&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 [![Servidor de Discord](https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord)](https://discord.gg/8nu3ZdDkp7)
 [![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/TUINVITE)
