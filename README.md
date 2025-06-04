@@ -1,15 +1,14 @@
-# 👋 ¡Hola! Soy tumoulo
+# 👋 ¡Hola! Soy tumoulo ![Foto de perfil](https://github.com/tu_usuario.png)
 
-Soy un desarrollador en formación, apasionado por la tecnología, el código limpio y el aprendizaje constante. Me encanta explorar nuevas herramientas y construir soluciones útiles.
+Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante. Me encanta explorar nuevas herramientas y construir soluciones útiles.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Twitter](https://img.shields.io/badge/-@TuUsuario-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
 
 ---
 
 ## 🛠️ Tecnologías
 
-## 🧠 Lenguajes de programación
+### 🧠 Lenguajes de programación
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
