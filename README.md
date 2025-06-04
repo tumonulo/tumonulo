@@ -9,7 +9,10 @@
   Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
 
-[![Discord](https://img.shields.io/discord/1093864130030612521&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
+[![Servidor de Discord](https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord)](https://discord.gg/8nu3ZdDkp7)
+[![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/TUINVITE)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/TUINVITE)
+[![Únete a mi Discord](https://img.shields.io/badge/Únete%20a%20mi%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TUINVITE)
 
 
 ## 🛠️ Tecnologías
