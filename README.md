@@ -1,13 +1,13 @@
-<header align="center">
+<header display="flex" flex-flow="row">
   <img src="https://github.com/tumonulo.png" width="80" alt="Foto de perfil" style="border-radius: 50%; margin-right: 15px;" />
   <h1 style="font-size: 2em;">👋 ¡Hola! Soy tumoulo</h1>
 </header>
 
-<p align="center" max-witdh="500px">
+<p align="center" max-witdh="100px">
   Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante. Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
 
-[![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
+[![Discord](https://img.shields.io/discord/1093864130030612521style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
 
 ---
 
