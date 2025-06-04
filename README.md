@@ -1,5 +1,5 @@
 <header display="flex" flex-flow="row">
-  <img src="https://github.com/tumonulo.png" width="80" alt="Foto de perfil" style="border-radius: 50%; margin-right: 15px;" />
+  <img src="https://github.com/tumonulo.png" width="80" alt="Foto de perfil" style="border-radius: 100%; margin-right: 15px;" />
   <h1 style="font-size: 2em;">👋 ¡Hola! Soy tumoulo</h1>
 </header>
 
