@@ -5,7 +5,7 @@
 <h1 align="center">👋 ¡Hola! Soy tumonulo</h1>
 
 <p align="center">
-  Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
+  Desarrollador de 16 años, apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
   Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
 
