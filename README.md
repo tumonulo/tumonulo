@@ -18,6 +18,8 @@
   </a>
 </p>
 
+---
+
 ## 🛠️ Tecnologías
 
 ### 🧠 Lenguajes de programación
