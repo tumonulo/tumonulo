@@ -1,8 +1,16 @@
-# 👋 ¡Hola! Soy tumoulo ![Foto de perfil](https://github.com/tu_usuario.png)
+<p align="center">
+  <img src="https://github.com/tumoulo.png" width="80" alt="Foto de perfil" style="border-radius: 50%; margin-right: 15px;" />
+  <b style="font-size: 2em;">👋 ¡Hola! Soy tumoulo</b>
+</p>
 
-Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante. Me encanta explorar nuevas herramientas y construir soluciones útiles.
+<p align="center">
+  Desarrollador de 16 años apasionado por la tecnología, el código limpio y el aprendizaje constante. Me encanta explorar nuevas herramientas y construir soluciones útiles.
+</p>
 
-[![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
+<p align="center">
+  [![Discord](https://img.shields.io/discord/ID_DEL_SERVER?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
+</p>
+
 
 ---
 
