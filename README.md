@@ -9,9 +9,8 @@
   Me encanta explorar nuevas herramientas y construir soluciones útiles.
 </p>
 
-[![Discord](https://img.shields.io/discord/1093864130030612521style=flat-square&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
+[![Discord](https://img.shields.io/discord/1093864130030612521&logo=discord&logoColor=white)](https://discord.gg/8nu3ZdDkp7)
 
----
 
 ## 🛠️ Tecnologías
 
