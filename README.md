@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="mailto:tumonulo.dev@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Contactame" />
   </a>
   <a href="https://discord.gg/8nu3ZdDkp7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/discord/1093864130030612521?style=flat-square&logo=discord&logoColor=white&label=Discord" alt="Servidor de Discord" />
