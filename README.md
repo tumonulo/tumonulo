@@ -25,6 +25,7 @@
 ### 🧠 Lenguajes de programación
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-06B6D4?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-06B6D4?style=for-the-badge&logo=react&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-3776AB?style=for-the-badge&logo=astro&logoColor=white)
@@ -36,6 +37,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ### 🗄️ Bases de datos
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white)
 ### 🛠️ Otros
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-2C2C2C?style=for-the-badge&logo=linux&logoColor=white)
@@ -43,4 +45,4 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F05032?style=for-the-badge&logo=pnpm&looColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ### 🧪 Actualmente aprendiendo
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Ada](https://img.shields.io/badge/Ada-3776AB?style=for-the-badge&logo=ada&logoColor=white)
