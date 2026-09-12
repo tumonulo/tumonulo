@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=90&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=120&section=header&animation=twinkling"
     width="100%"
     alt="Developer header"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=api.lanyard.rest%2F838441772794511411.png&w=180&h=180&fit=cover&mask=circle&mtrim"
+    src="https://wsrv.nl/?url=https%3A%2F%2Fapi.lanyard.rest%2F838441772794511411.png&w=180&h=180&fit=cover&mask=circle&mtrim&mbg=00000000"
     width="180"
     height="180"
     alt="Discord Avatar"
@@ -26,14 +26,14 @@
   <a href="mailto:tumonulo.dev@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"
-      height="24"
+      height="22"
       alt="Email"
     />
   </a>
   <a href="https://discord.gg/8nu3ZdDkp7">
     <img
       src="https://img.shields.io/discord/1093864130030612521?style=flat&logo=discord&logoColor=white&label=TS%20Community%20Brawl"
-      height="24"
+      height="22"
       alt="TS Community Brawl"
     />
   </a>
@@ -59,12 +59,10 @@
 <h2 align="center">🛠️ Stack</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,astro,html,css,tailwind,express,mongodb,discordjs,git,linux,pnpm,vercel&perline=8"
-      alt="Technology Stack"
-    />
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,astro,html,css,tailwind,express,mongodb,discordjs,git,linux,pnpm,vercel&perline=8"
+    alt="Technology Stack"
+  />
 </p>
 
 <h2 align="center">📊 GitHub</h2>
