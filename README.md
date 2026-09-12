@@ -15,11 +15,11 @@
   />
 </p>
 
-<h1 align="center">👋 Hi, I'm tumonulo</h1>
+<h1 align="center">👋 Hi, I'm Tumonulo</h1>
 
 <p align="center">
-  Desarrollador apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
-  Me encanta explorar nuevas herramientas y construir soluciones útiles.
+  A developer passionate about technology, clean code, and continuous learning.<br>
+  I love exploring new tools and building useful solutions.
 </p>
 
 <p align="center">
