@@ -46,3 +46,54 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ### 🧪 Actualmente aprendiendo
 ![Ada](https://img.shields.io/badge/Ada-3776AB?style=for-the-badge&logo=ada&logoColor=white)
+
+
+## 🛠️ Tecnologías
+
+### 🧠 Lenguajes de programación
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,python" />
+  </a>
+</p>
+
+### 💻 Frontend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,astro,html,css,tailwind" />
+  </a>
+</p>
+
+### 🔧 Backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  </a>
+</p>
+
+### 🗄️ Bases de datos
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
+
+### 🛠️ Herramientas y tecnologías
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discordjs,linux,git,pnpm,vercel" />
+  </a>
+</p>
+
+### 🧪 Actualmente aprendiendo
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ada" />
+  </a>
+</p>
