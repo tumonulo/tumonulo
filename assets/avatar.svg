@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="220"
+     height="220"
+     viewBox="0 0 220 220">
+
+  <defs>
+
+    <!-- Glow -->
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Máscara circular para el avatar -->
+    <clipPath id="avatarClip">
+      <circle cx="110" cy="110" r="72"/>
+    </clipPath>
+
+    <!-- Gradiente del borde -->
+    <linearGradient id="ring"
+                    x1="0%"
+                    y1="0%"
+                    x2="100%"
+                    y2="100%">
+      <stop offset="0%" stop-color="#58A6FF"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#5865F2"/>
+    </linearGradient>
+
+  </defs>
+
+  <!-- Halo exterior -->
+  <circle
+    cx="110"
+    cy="110"
+    r="82"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="3"
+    opacity="0.35"
+    filter="url(#glow)">
+
+    <animate
+      attributeName="r"
+      values="79;84;79"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+
+    <animate
+      attributeName="opacity"
+      values="0.25;0.55;0.25"
+      dur="2.8s"
+      repeatCount="indefinite"/>
+  </circle>
+
+
+  <!-- Avatar -->
+  <image
+    href="https://api.lanyard.rest/838441772794511411.png"
+    x="38"
+    y="38"
+    width="144"
+    height="144"
+    preserveAspectRatio="xMidYMid slice"
+    clip-path="url(#avatarClip)"
+  />
+
+
+  <!-- Borde del avatar -->
+  <circle
+    cx="110"
+    cy="110"
+    r="74"
+    fill="none"
+    stroke="url(#ring)"
+    stroke-width="4"
+    filter="url(#glow)"
+  />
+
+  <!-- Segundo borde fino -->
+  <circle
+    cx="110"
+    cy="110"
+    r="79"
+    fill="none"
+    stroke="#58A6FF"
+    stroke-width="1"
+    opacity="0.5"
+  />
+
+
+  <!-- Decoración superior -->
+  <circle cx="110" cy="20" r="2.5" fill="#FFFFFF">
+    <animate
+      attributeName="opacity"
+      values="0.3;1;0.3"
+      dur="1.8s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Decoración izquierda -->
+  <circle cx="22" cy="110" r="2" fill="#58A6FF">
+    <animate
+      attributeName="opacity"
+      values="1;0.2;1"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Decoración derecha -->
+  <circle cx="198" cy="110" r="2" fill="#5865F2">
+    <animate
+      attributeName="opacity"
+      values="0.2;1;0.2"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
+
+</svg>

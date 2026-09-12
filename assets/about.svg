@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="355" height="220" viewBox="0 0 355 220">
+
+  <style>
+    .item {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      font-weight: 500;
+      fill: #f0f6fc;
+    }
+
+    .emoji {
+      font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+      font-size: 17px;
+    }
+
+    .dash {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 17px;
+      font-weight: 600;
+      fill: #8b949e;
+    }
+  </style>
+
+  <!-- EDIT YOUR ABOUT ME HERE -->
+
+  <text x="4" y="27" class="dash">●</text>
+  <text x="25" y="27" class="emoji">🎓</text>
+  <text x="51" y="27" class="item">Computer Science student</text>
+
+  <text x="4" y="63" class="dash">●</text>
+  <text x="25" y="63" class="emoji">💻</text>
+  <text x="51" y="63" class="item">4+ years with JavaScript &amp; Node.js</text>
+
+  <text x="4" y="99" class="dash">●</text>
+  <text x="25" y="99" class="emoji">🤖</text>
+  <text x="51" y="99" class="item">Discord bot development</text>
+
+  <text x="4" y="135" class="dash">●</text>
+  <text x="25" y="135" class="emoji">🌐</text>
+  <text x="51" y="135" class="item">Web &amp; backend development</text>
+
+  <text x="4" y="171" class="dash">●</text>
+  <text x="25" y="171" class="emoji">🧠</text>
+  <text x="51" y="171" class="item">TypeScript-focused projects</text>
+
+  <text x="4" y="207" class="dash">●</text>
+  <text x="25" y="207" class="emoji">🚀</text>
+  <text x="51" y="207" class="item">Always learning and building</text>
+
+</svg>

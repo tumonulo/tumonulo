@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=150&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=90&section=header&animation=twinkling"
     width="100%"
     alt="Developer header"
   />
@@ -8,10 +8,9 @@
 
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=https%3A%2F%2Fapi.lanyard.rest%2F838441772794511411.png&w=180&h=180&fit=cover&mask=circle"
-    width="180"
-    height="180"
-    alt="tumonulo"
+    src="https://raw.githubusercontent.com/tumonulo/tumonulo/main/assets/avatar.svg"
+    width="220"
+    alt="Avatar"
   />
 </p>
 
@@ -41,7 +40,7 @@
 
 <p align="center">
   <img
-    src="profile/about.svg"
+    src="assets/about.svg"
     width="48%"
     height="280"
     alt="About Me"
@@ -69,12 +68,12 @@
 
 <p align="center">
   <img
-    src="profile/stats.svg"
+    src="assets/stats.svg"
     width="495"
     alt="GitHub Statistics"
   />
   <img
-    src="profile/top-langs.svg"
+    src="assets/top-langs.svg"
     width="330"
     alt="Most Used Languages"
   />

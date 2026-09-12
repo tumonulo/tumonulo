@@ -22,7 +22,7 @@ jobs:
           card: stats
           options: >-
             username=${{ github.repository_owner }}&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=github_dark
-          path: profile/stats.svg
+          path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
@@ -31,7 +31,7 @@ jobs:
           card: top-langs
           options: >-
             username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&theme=github_dark
-          path: profile/top-langs.svg
+          path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated stats
@@ -39,7 +39,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/*.svg
+          git add assets/*.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
