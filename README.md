@@ -1,12 +1,26 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:5865F2,50:7289DA,100:0D1117&height=150&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=150&section=header&animation=twinkling"
     width="100%"
-    alt="Header"
+    alt="Developer header"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github.com/tumonulo.png"
+    width="115"
+    height="115"
+    alt="tumonulo"
+    style="border-radius: 50%;"
   />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy tumonulo</h1>
+
+<p align="center">
+  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
+</p>
 
 <p align="center">
   Desarrollador apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
@@ -37,46 +51,56 @@
   </a>
 </p>
 
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  🎓 Computer Science student · 💻 4+ years with JavaScript & Node.js · 🤖 Discord bot development<br>
-  🌐 Web & backend development · 🧠 TypeScript-focused projects · 🚀 Always learning and building
-</p>
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
 
----
+- 🎓 Computer Science student
+- 💻 4+ years with JavaScript & Node.js
+- 🤖 Discord bot development
+- 🌐 Web & backend development
+- 🧠 TypeScript-focused projects
+- 🚀 Always learning and building
+
+    </td>
+    <td width="45%" valign="middle" align="center">
+
+<a href="https://discord.com/users/838441772794511411">
+  <img
+    src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=12px&showDisplayName=true"
+    alt="Discord Presence"
+  />
+</a>
+
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🛠️ Stack</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,astro,html,css,tailwind,express,mongodb,discordjs,git,linux,pnpm,vercel&perline=8"
-      alt="Technology Stack"
-    />
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,astro,html,css,tailwind,express,mongodb,discordjs,git,linux,pnpm,vercel&perline=8"
+    alt="Technology Stack"
+  />
 </p>
-
----
 
 <h2 align="center">📊 GitHub</h2>
 
 <p align="center">
   <img
-    src="./profile/stats.svg"
+    src="profile/stats.svg"
     width="495"
     alt="GitHub Statistics"
   />
   <img
-    src="./profile/top-langs.svg"
+    src="profile/top-langs.svg"
     width="330"
     alt="Most Used Languages"
   />
 </p>
-
----
 
 <h2 align="center">📫 Contact</h2>
 
