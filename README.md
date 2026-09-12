@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=120&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=90&section=header&animation=twinkling"
     width="100%"
     alt="Developer header"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=https%3A%2F%2Fapi.lanyard.rest%2F838441772794511411.png&w=180&h=180&fit=cover&mask=circle&mtrim&mbg=00000000"
+    src="https://api.lanyard.rest/838441772794511411.png"
     width="180"
     height="180"
     alt="Discord Avatar"
