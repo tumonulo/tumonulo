@@ -8,14 +8,14 @@
 
 <p align="center">
   <img
-    src="profile/avatar.png"
+    src="https://api.lanyard.rest/838441772794511411.png"
     width="150"
     height="150"
     alt="tumonulo"
   />
 </p>
 
-# 👋 Hi, I'm tumonulo
+<h1 align="center">👋 Hi, I'm tumonulo</h1>
 
 <p align="center">
   Desarrollador apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
@@ -37,11 +37,11 @@
   </a>
 </p>
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <img
   align="right"
-  width="46%"
+  width="50%"
   src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=16px&showDisplayName=true"
   alt="Discord Presence"
 />
@@ -55,7 +55,7 @@
 
 <br clear="right">
 
-## 🛠️ Stack
+<h2 align="center">🛠️ Stack</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-## 📊 GitHub
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
   <img
@@ -81,7 +81,7 @@
   />
 </p>
 
-## 📫 Contact
+<h2 align="center">📫 Contact</h2>
 
 <p align="center">
   <a href="mailto:tumonulo.dev@gmail.com">tumonulo.dev@gmail.com</a>
