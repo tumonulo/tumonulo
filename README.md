@@ -8,13 +8,14 @@
 
 <p align="center">
   <img
-    src="https://github.com/tumonulo.png"
-    width="140"
+    src="https://wsrv.nl/?url=https://github.com/tumonulo.png&w=180&h=180&fit=cover&mask=circle&mtrim&maxage=1d"
+    width="150"
+    height="150"
     alt="tumonulo"
   />
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy tumonulo</h1>
+# 👋 Hi, I'm tumonulo
 
 <p align="center">
   Desarrollador apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
@@ -36,43 +37,13 @@
   </a>
 </p>
 
-<br>
+## 👨‍💻 About Me
 
-<p align="center">
-  <b>👨‍💻 About Me</b>
-</p>
+| | |
+|:---|:---|
+| **🎓 Computer Science student**<br><br>**💻 4+ years with JavaScript & Node.js**<br><br>**🤖 Discord bot development**<br><br>**🌐 Web & backend development**<br><br>**🧠 TypeScript-focused projects**<br><br>**🚀 Always learning and building** | <p align="center"><a href="https://discord.com/users/838441772794511411"><img src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=16px&showDisplayName=true" width="100%" alt="Discord Presence"></a></p> |
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="middle">
-
-**🎓 Computer Science student**  
-**💻 4+ years with JavaScript & Node.js**  
-**🤖 Discord bot development**  
-**🌐 Web & backend development**  
-**🧠 TypeScript-focused projects**  
-**🚀 Always learning and building**
-
-    </td>
-    <td width="50%" valign="middle" align="center">
-
-<a href="https://discord.com/users/838441772794511411">
-  <img
-    src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=16px&showDisplayName=true"
-    width="100%"
-    alt="Discord Presence"
-  />
-</a>
-
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<p align="center">
-  <b>🛠️ Stack</b>
-</p>
+## 🛠️ Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -83,11 +54,7 @@
   </a>
 </p>
 
-<br>
-
-<p align="center">
-  <b>📊 GitHub</b>
-</p>
+## 📊 GitHub
 
 <p align="center">
   <img
@@ -102,11 +69,7 @@
   />
 </p>
 
-<br>
-
-<p align="center">
-  <b>📫 Contact</b>
-</p>
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:tumonulo.dev@gmail.com">tumonulo.dev@gmail.com</a>
