@@ -9,18 +9,12 @@
 <p align="center">
   <img
     src="https://github.com/tumonulo.png"
-    width="115"
-    height="115"
+    width="140"
     alt="tumonulo"
-    style="border-radius: 50%;"
   />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy tumonulo</h1>
-
-<p align="center">
-  <b>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</b>
-</p>
 
 <p align="center">
   Desarrollador apasionado por la tecnología, el código limpio y el aprendizaje constante.<br>
@@ -42,34 +36,30 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://discord.com/users/838441772794511411">
-    <img
-      src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=0d1117&hide_discrim=true&borderRadius=14px&showDisplayName=true"
-      alt="Discord Presence"
-    />
-  </a>
-</p>
+<br>
 
-<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
+  <b>👨‍💻 About Me</b>
+</p>
 
 <table align="center">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="middle">
 
-- 🎓 Computer Science student
-- 💻 4+ years with JavaScript & Node.js
-- 🤖 Discord bot development
-- 🌐 Web & backend development
-- 🧠 TypeScript-focused projects
-- 🚀 Always learning and building
+**🎓 Computer Science student**  
+**💻 4+ years with JavaScript & Node.js**  
+**🤖 Discord bot development**  
+**🌐 Web & backend development**  
+**🧠 TypeScript-focused projects**  
+**🚀 Always learning and building**
 
     </td>
-    <td width="45%" valign="middle" align="center">
+    <td width="50%" valign="middle" align="center">
 
 <a href="https://discord.com/users/838441772794511411">
   <img
-    src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=12px&showDisplayName=true"
+    src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=16px&showDisplayName=true"
+    width="100%"
     alt="Discord Presence"
   />
 </a>
@@ -78,16 +68,26 @@
   </tr>
 </table>
 
-<h2 align="center">🛠️ Stack</h2>
+<br>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,astro,html,css,tailwind,express,mongodb,discordjs,git,linux,pnpm,vercel&perline=8"
-    alt="Technology Stack"
-  />
+  <b>🛠️ Stack</b>
 </p>
 
-<h2 align="center">📊 GitHub</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,react,astro,html,css,tailwind,express,mongodb,discordjs,git,linux,pnpm,vercel&perline=8"
+      alt="Technology Stack"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <b>📊 GitHub</b>
+</p>
 
 <p align="center">
   <img
@@ -102,7 +102,11 @@
   />
 </p>
 
-<h2 align="center">📫 Contact</h2>
+<br>
+
+<p align="center">
+  <b>📫 Contact</b>
+</p>
 
 <p align="center">
   <a href="mailto:tumonulo.dev@gmail.com">tumonulo.dev@gmail.com</a>
