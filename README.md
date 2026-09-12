@@ -39,19 +39,15 @@
   </a>
 </p>
 
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
+<h2 align="center">👨‍💻 About Me</h2><p align="center">
   <img
     src="assets/about.svg"
     width="330"
-    height="190"
     alt="About Me"
   />
   <img
     src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=16px&showDisplayName=true"
-    width="48%"
-    height="190"
+    width="400"
     alt="Discord Presence"
   />
 </p>
