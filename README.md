@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=90&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:5865F2&height=65&section=header&animation=twinkling"
     width="100%"
     alt="Developer header"
   />
@@ -8,9 +8,9 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/tumonulo/tumonulo/main/assets/avatar.svg"
-    width="220"
-    alt="Avatar"
+    src="https://api.lanyard.rest/838441772794511411.png"
+    width="180"
+    alt="Discord Avatar"
   />
 </p>
 
@@ -41,14 +41,14 @@
 <p align="center">
   <img
     src="assets/about.svg"
-    width="48%"
-    height="280"
+    width="330"
+    height="190"
     alt="About Me"
   />
   <img
     src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=16px&showDisplayName=true"
     width="48%"
-    height="280"
+    height="190"
     alt="Discord Presence"
   />
 </p>
