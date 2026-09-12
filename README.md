@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=https://github.com/tumonulo.png&w=180&h=180&fit=cover&mask=circle&mtrim&maxage=1d"
+    src="https://wsrv.nl/?url=https://github.com/tumonulo.png&w=180&h=180&fit=cover&mask=circle&mtrim&mbg=00000000"
     width="150"
     height="150"
     alt="tumonulo"
@@ -39,9 +39,21 @@
 
 ## 👨‍💻 About Me
 
-| | |
-|:---|:---|
-| **🎓 Computer Science student**<br><br>**💻 4+ years with JavaScript & Node.js**<br><br>**🤖 Discord bot development**<br><br>**🌐 Web & backend development**<br><br>**🧠 TypeScript-focused projects**<br><br>**🚀 Always learning and building** | <p align="center"><a href="https://discord.com/users/838441772794511411"><img src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=16px&showDisplayName=true" width="100%" alt="Discord Presence"></a></p> |
+<img
+  align="right"
+  width="48%"
+  src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hide_discrim=true&borderRadius=16px&showDisplayName=true"
+  alt="Discord Presence"
+/>
+
+- 🎓 Computer Science student
+- 💻 4+ years with JavaScript & Node.js
+- 🤖 Discord bot development
+- 🌐 Web & backend development
+- 🧠 TypeScript-focused projects
+- 🚀 Always learning and building
+
+<br clear="right">
 
 ## 🛠️ Stack
 
