@@ -8,9 +8,9 @@
 
 <p align="center">
   <img
-    src="https://api.lanyard.rest/838441772794511411.png"
-    width="150"
-    height="150"
+    src="https://wsrv.nl/?url=https%3A%2F%2Fapi.lanyard.rest%2F838441772794511411.png&w=180&h=180&fit=cover&mask=circle"
+    width="180"
+    height="180"
     alt="tumonulo"
   />
 </p>
@@ -39,21 +39,20 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<img
-  align="right"
-  width="50%"
-  src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=16px&showDisplayName=true"
-  alt="Discord Presence"
-/>
-
-- 🎓 Computer Science student
-- 💻 4+ years with JavaScript & Node.js
-- 🤖 Discord bot development
-- 🌐 Web & backend development
-- 🧠 TypeScript-focused projects
-- 🚀 Always learning and building
-
-<br clear="right">
+<p align="center">
+  <img
+    src="profile/about.svg"
+    width="48%"
+    height="280"
+    alt="About Me"
+  />
+  <img
+    src="https://lanyard.cnrad.dev/api/838441772794511411?theme=dark&bg=00000000&hideDiscrim=true&borderRadius=16px&showDisplayName=true"
+    width="48%"
+    height="280"
+    alt="Discord Presence"
+  />
+</p>
 
 <h2 align="center">🛠️ Stack</h2>
 
