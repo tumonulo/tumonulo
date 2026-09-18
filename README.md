@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <b>🏢 Owner & Developer · <a href="https://github.com/ts-community">TS Community</a></b><br>
-  Building bots, tools, and services for the Brawl Stars community.
+  <b>🏢 Owner & Developer of <a href="https://github.com/ts-community">TS Community Brawl</a></b><br>
+  Building bots, tools, and services for the community.
 </p>
 
 <p align="center">
@@ -57,26 +57,6 @@
     width="400"
     alt="Discord Presence"
   />
-</p>
-
-<h2 align="center">🏢 TS Community</h2>
-
-<p align="center">
-  <a href="https://github.com/ts-community/TS-Levelling">
-    <b>TS-Levelling</b>
-  </a>
-  ·
-  <a href="https://github.com/ts-community/TS-League">
-    <b>TS-League</b>
-  </a>
-  ·
-  <a href="https://github.com/ts-community/TS-Web">
-    <b>TS Community Web</b>
-  </a>
-</p>
-
-<p align="center">
-  Open-source projects and services built for the TS Community Brawl server.
 </p>
 
 <h2 align="center">🛠️ Stack</h2>
